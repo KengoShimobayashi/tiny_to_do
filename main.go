@@ -1,6 +1,6 @@
 package main
 
-import(
+import (
 	"html/template"
 	"log"
 	"net/http"
